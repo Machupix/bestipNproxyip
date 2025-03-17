@@ -18,7 +18,7 @@ shopify.com
 singapore.com#singapore.com green
 skk.moe
 time.cloudflare.com
-time.is#time.is green
+time.is#time.is green US
 www.4chan.org
 www.baipiao.eu.org
 www.boba88slot.com
