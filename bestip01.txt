@@ -8,7 +8,7 @@ fbi.gov
 gur.gov.ua
 icook.hk
 icook.tw
-ip.sb
+ip.sb#ip.sb green
 japan.com#japan.com green
 log.bpminecraft.com
 malaysia.com
@@ -43,7 +43,7 @@ www.visa.com.sg
 www.visa.com.tw
 www.visakorea.com
 www.whatismyip.com
-www.whoer.net
+www.whoer.net#www.whoer.net green
 www.zsu.gov.ua
 xn--b6gac.eu.org
 aragorn.ns.cloudflare.com
