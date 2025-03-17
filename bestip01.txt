@@ -9,7 +9,7 @@ gur.gov.ua
 icook.hk
 icook.tw
 ip.sb
-japan.com
+japan.com#japan.com green
 log.bpminecraft.com
 malaysia.com
 nc.gocada.co
